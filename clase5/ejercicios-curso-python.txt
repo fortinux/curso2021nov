@@ -1,0 +1,63 @@
+Ejercicios Python clase 1
+Ejercicio 1: Crear un programa que le pregunte al usuario su nombre y edad y le muestre el año en que cumplirá los 100 años. 
+Ejercicio 2: Preguntar al usuario un número y mostrar si es par o impar. Si el número es múltiple de 4 imprimir el mensaje apropiado al usuario.
+Ejercicio 3: Escribir un programa que tome una lista de números (entre 5 y 10 números) y haga una lista con el primero y el último de los elementos; otra con el valor máximo y mínimo, y las muestre en pantalla.
+
+************************************
+Ejercicios Python clase 2
+Trabajando con clases
+
+CLASE COCHE
+Modificar el código de la clase coche para que pueda ser llamado desde un nuevo fichero 
+1.- El fichero de la clase se debe llamar clase_coche.py
+2.- El fichero del objeto desde donde llamar a la clase: objeto_coche.py
+3.- Crear al menos una instancia para llamar al objeto y a la clase
+
+CLASE EMPLEADOS
+1.- Crear una clase "empleados" en un fichero denominado clase_empleados.py
+2.- Crear una subclase de empleados denominada "aptitudes" con: lenguajes(programación), so(sistemas operativos que domina), e idioma. 
+3.- Crear dos empleados utilizando esa clase y subclase 
+
+************************************
+Python Manipular ficheros en Python
+
+1.- Descargar de Datos.gob.es los ficheros: Tabla de INE base Formación Bruta de Capital Fijo por comunidades y ciudades autónomas ramas de actividad y periodo.
+http://www.ine.es/jaxi/files/_px/es/csv_c/t35/p010/fbcf/01001.csv_c
+http://www.ine.es/jaxi/files/_px/es/xlsx/t35/p010/fbcf/01001.xlsx 
+
+Crear el/los scripts correspondientes para:
+1.- Crear una copia y luego convertir el fichero .csv a .tsv
+2.- Crear un directorio y mover la copia del fichero .csv dentro
+3.- Escribir en un nuevo fichero las primeras 100 líneas del fichero .tsv 
+4.- Comparar los datos dentro de los ficheros .csv
+5.- Exportar las primeras 5 columnas del fichero en formato .xlsx a un nuevo fichero. 
+
+
+************************************
+Ejemplo crear hash
+
+
+************************************
+Python
+Ejemplo manipular JSON, 
+https://datos.gob.es/es/catalogo/ea0010587-gasto-en-tic-en-2020-identificador-api-t09-e02-a2020-2021-l0-02013-px
+Ejemplo manipular XML
+https://datos.gob.es/es/catalogo/l02000008-censo-de-actividades-y-establecimientos
+Otros formatos:
+https://opendata.esri.es/
+https://datos.madrid.es/portal/site/egob
+https://opendata-ajuntament.barcelona.cat/es/
+
+************************************
+Python
+
+************************************
+
+Proyecto pythonEjercicios
+https://www.practicepython.org/
+
+https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+
+https://github.com/arsho/46-Simple-Python-Exercises-Solutions
+
+
