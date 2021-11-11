@@ -1,7 +1,9 @@
 # cursoPython2021nov
 
 - instalar git en windows:     
--  Descargarlo de https://git-scm.com/downloads    
+- Descargar GitHub Desktop https://desktop.github.com/
+- Descargar git de https://git-scm.com/downloads
+     
 
 ## Inicializar repositorio utilizando git
 - Comandos en la terminal    
@@ -11,7 +13,7 @@
      
 - agregar el repositorio creado anteriormente en el cvs    
 - Dos opciones: Repositorio red local y repositorio en Github.com    
-`git remote add origin http://www/usuario/CursoPython2021nov.git`    
+`git remote add origin http://{GitLocal}/usuario/CursoPython{AñoMes}.git`    
 `git remote add origin https://github.com/fortinux/curso2021nov.git`
 
 `git fetch origin master`    
